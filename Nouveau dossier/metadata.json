@@ -1,0 +1,9 @@
+
+{
+  "name": "Tirani - Sports Pitch Booking",
+  "description": "An AI-powered sports pitch booking platform with automated scheduling and trust-based verification.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
